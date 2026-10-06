@@ -58,4 +58,7 @@ $$
 x = 2^4 * y
 $$
 
+![Foto 1](cienciadatos.jpg)
+![Gif 1](Gif.gif)
+
 
